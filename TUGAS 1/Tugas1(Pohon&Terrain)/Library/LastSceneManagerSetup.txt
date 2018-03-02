@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Tugas1(Pohon&Terrain).unity
+  isLoaded: 1
+  isActive: 1
